@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\MMSU\obj\x86\Release\MMSU.MainForm.resources
+C:\Users\Administrator\Desktop\MMSU\obj\x86\Release\MMSU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MMSU\bin\Debug\MMSU.exe
+C:\Users\Administrator\Desktop\MMSU\bin\Debug\MMSU.pdb
+C:\Users\Administrator\Desktop\MMSU\obj\x86\Release\MMSU.exe
+C:\Users\Administrator\Desktop\MMSU\obj\x86\Release\MMSU.pdb
+C:\Users\Administrator\Desktop\MMSU\obj\x86\Release\MMSU.csprojResolveAssemblyReference.cache
